@@ -1,0 +1,15 @@
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\bin\Debug\net7.0\GDTask_8.exe
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\bin\Debug\net7.0\GDTask_8.deps.json
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\bin\Debug\net7.0\GDTask_8.runtimeconfig.json
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\bin\Debug\net7.0\GDTask_8.dll
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\bin\Debug\net7.0\GDTask_8.pdb
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.csproj.AssemblyReference.cache
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.AssemblyInfoInputs.cache
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.AssemblyInfo.cs
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.csproj.CoreCompileInputs.cache
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.dll
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\refint\GDTask_8.dll
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.pdb
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\GDTask_8.genruntimeconfig.cache
+C:\programs\github_rep\GDTask_8\GDTask_8\GDTask_8\obj\Debug\net7.0\ref\GDTask_8.dll
